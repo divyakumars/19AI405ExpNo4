@@ -1,4 +1,6 @@
-<h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
+<h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1>
+### NAME:DIVYA.K
+### REGISTER NUMBER:212222230035
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
